@@ -1,1 +1,1 @@
-# wheel_part
+# wheel_part in this task our main concern is to design the wheel of a robot by using H-bridge to control the direction of two motors. The way we done this task is that first we identified each pin of the H-bridge and we designed the circuit diagram accordingly. Next we wrote the code to rotate the motors to the desired angle after a certein amount of time. after that we added a sensor to control the direction of the motors.
